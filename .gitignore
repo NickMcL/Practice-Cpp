@@ -1,2 +1,4 @@
 #ignore objects and archives
-*.[oa]
+*.o
+*.a
+*.out
