@@ -1,4 +1,9 @@
 #ignore objects and archives
 *.o
 *.a
+
+#ignore compiled files
 *.out
+
+#ignore files being editted
+*.swp
